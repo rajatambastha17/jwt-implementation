@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.spring.project</groupId>
-	<artifactId>jwtimplementation</artifactId>
+	<artifactId>jwt-implementation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>jwt-implementation</name>
 	<description>Demo project for Spring Boot JWT Implementation</description>
