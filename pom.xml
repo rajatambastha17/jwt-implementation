@@ -11,7 +11,7 @@
 	<groupId>com.spring.project</groupId>
 	<artifactId>jwtimplementation</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>jwtimplementation</name>
+	<name>jwt-implementation</name>
 	<description>Demo project for Spring Boot JWT Implementation</description>
 	<url/>
 	<licenses>
